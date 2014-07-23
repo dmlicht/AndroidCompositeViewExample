@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">RevealablePassword</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+  <string name="hide_pass">show</string>
+  <string name="enter_pass_prompt">enter password ...</string>
+
+</resources>
